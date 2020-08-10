@@ -1,2 +1,2 @@
-# Coomuting-Graph-of-V8n
+# Commuting-Graph-of-V8n
 Studying the algebraic group structure V8n in depth
